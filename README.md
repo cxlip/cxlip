@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cxlip
+- 👋 Hi, I’m @cxlipp
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning php, python, java
 - 💞️ I’m looking to collaborate on the above
